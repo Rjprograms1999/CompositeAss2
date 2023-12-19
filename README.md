@@ -1,1 +1,1 @@
-# CompositeAss2
+# CompositeAss2 design pattern
